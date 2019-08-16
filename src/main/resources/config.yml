@@ -1,0 +1,14 @@
+Skills:
+ MaxLevels:
+  Strength: 50
+  AttackSpeed: 50
+  CriticalChance: 100
+  Archery: 50
+  Hearts: 50
+  Defense: 25
+ Settings:
+  ExpPerKill: 25
+  MaxLevel: 100
+  LevelDifference: 10
+  ExpCurve: 200
+  ExPBase: 200

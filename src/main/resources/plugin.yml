@@ -1,0 +1,7 @@
+main: com.bevelio.megaskills.MegaSkillsPlugin
+name: MegaSkills
+version: 1.3-Stable
+description: Mirror skill system of pitforge
+authors: [Bevelio]
+softdepend: [PlaceholderAPI]
+
